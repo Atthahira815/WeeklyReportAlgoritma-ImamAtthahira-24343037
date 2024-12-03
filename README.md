@@ -2,7 +2,7 @@
 Nama : Imam Atthahira <br>
 NIM  : 24343037
 
-## Penjelasan Singkat Tentang Modul-Modul
+# Penjelasan Singkat Tentang Modul-Modul
 
 ### Modul 1 - Pengantar Algoritma dan Pemrograman
    Modul ini adalah  sebuah pengantar terhadap konsep algoritma dan pemrograman, menjelaskan sejarah dari algoritma dan contohnya, lalu menjelaskan pengertian dari pemrograman, perbedaannya dari coding, serta berbagai tingkat bahasa pemrograman yang dapat digunakan oleh programmer.
