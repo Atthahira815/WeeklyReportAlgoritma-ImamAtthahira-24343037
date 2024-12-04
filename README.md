@@ -1,6 +1,11 @@
 ## WeeklyReportAlgoritma-ImamAtthahira-24343037
-Nama : Imam Atthahira <br>
-NIM  : 24343037
+> ```
+> Nama : Imam Atthahira
+> NIM  : 24343037
+>
+> ```
+
+---
 
 # Penjelasan Singkat Tentang Modul-Modul
 
