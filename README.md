@@ -1,7 +1,7 @@
 ## WeeklyReportAlgoritma-ImamAtthahira-24343037
 > ```
-> Nama : Imam Atthahira
-> NIM  : 24343037
+> Nama : Imam Atthahira <b align="Center">
+> NIM  : 24343037 
 >
 > ```
 
