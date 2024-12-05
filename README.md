@@ -82,7 +82,25 @@ Terdapat 4 pelatihan pemrograman dalam modul ini:
 Terdapat 3 pelatihan pemrograman dalam modul ini:
    1. <b>Segitiga Siku-Siku BORLAND</b> , Program akan mengeluarkan tulisan borland berurut dari belakang dan membentuk segitiga siku-siku menggunakan pointer.
    2. <b>Kalimat Terbalik</b> , Pengguna diminta untuk memasukkan sebuah nama atau kalimat dan nanti program akanmengeluarkan output berupa kebalikan dari nama atau kalimat tersebut.
-   3. <b>
+   3. <b>Pengujian Sifat Pointer</b> , Dimana program ini akan memberikan beberapa contoh penggunaan pointer dan meminta pengguna untuk menebak hasil dari operasi-operasi tertentu pada pointer.
+
+### Modul 10 - <i>Enumerasi & structure</i>
+   Modul ini membahas tentang Enumerasi. Enum atau Enumeration merupakan tipe data yang berisi sekumpulan konstanta. Enum termasuk dalam tipe data bentukan, karena tipe data ini dibuat sendiri oleh kita.
+
+Terdapat 3 pelatihan pemrograman dalam modul ini:
+   1. <b>Game Tebak Angka Sederhana</b> , Program akan memilih angka acak dari 1 - 20, Pengguna diminta untuk menebak angka yang dipilih oleh program.Program akan memberikan petunjuk apakah tebakan terlalu tinggi atau rendah. Permainan akan terus berulang sampai pemain menebak dengan benar dan akan ditampilkan beberapa kali percobaan pengguna menebak angka.
+   2. <b>Penentu Zodiak</b> , Dimana program akan menentukan zodiak pengguna dengan cara pengguna diminta untuk memasukkan Tanggal, bulan serta Tahun lahir Pengguna. Program akan mencocokkan dan Memberi tahu apa zodiak anda.
+   3. <b>Penyimpan Data Siswa</b> , Dimana program ini akan meminta pengguna untuk memasukkan data mahasiswa secara berulang. Data mahasiswa yang telah dimasukkan akan disimpan dan ditampilkan kembali.
+
+### Modul 11 - File Handling in C
+   Modul ini menunjukkan ke pembaca bahwa kita dapat memanipulsai data file dalam program bahasa c, dengan cara menggunakan beberapa fungsi fclose dan fopen (digunakan untuk membuka dan menutup file) yang dapat diubah dengan mode read("r") dan write("w"), lalu untuk fungsi-fungsi memanipulasi file seperti fprintf, fscanf, fgets, dan lain-lain.
+
+Terdapat 1 pelatihan pemrograman dalam modul ini:
+   1. <b>Program Sederhana Biodata Mahasiswa</b> , Program akan meminta pengguna untuk menginputkan beberapa biodata mahasiswa, penginputan bisa dilakukan berulang-ulang sampai beberapa mahasiswa. Kemudian, data-data mahasiswa yang telah di inputkan tersebut akan disimpan ke dalam sebuah file yang bernama "Mahasiswa.txt"
+
+## Sekian, Terima Kasih Atas Perhatiannya 
+
+***
 
 
 
