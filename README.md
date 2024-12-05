@@ -54,7 +54,7 @@ Terdapat 4 pelatihan pemrograman dalam modul ini:
    1. <b>Kalkulator Sederhana</b> , Program akan memberikan beberapa pilihan operasi bilangan kepada pengguna, seperti penjumlahan, pengurangan, perkalian, pembagian, dan modulus. Kemudian pengguna diminta untuk mengingputkan 2 bilangan, dan program akan mengeluarkan output berupa hasil sesuai dengan operasi bilangan yang dipilih.
    2. <b>Penghitung Diskon Toserba</b> , yang dimana program akan menghitung diskon yang didapat pengguna sesuai dengan jumlah total belanjaan yang diinputkan oleh pengguna. Besaran diskon telah ditentukan sesuai dengan jumlah minimum belanja yang diperlukan.
    3. <b>Program Rumus</b> , Yang dimana program akan memberikan pilihan antara 1-4 dan pengguna akan diminta untuk memlih salah satu untuk diinputkan. Jika inputan tidak sesuai, maka program akan mengeluarkan output "Pilihan tidak valid!". Jika pilihan sesuai dengan yang diminta, maka pengguna akan diminta untuk mneginputkan bilangan sesuai dengan rumus, dan program akan mengeluarkan output sesuai dengan rumus yang ditetapkan.
-   4. <b>Nilai Akhir Mahasiswa</b>
+   4. <b>Nilai Akhir Mahasiswa</b> , Program menghitung nilai akhir seorang siswa berdasarkan nilai kehadiran, tugas, UTS (Ujian Tengah Semester), dan UAS (Ujian Akhir Semester) dan memberikan grade berdasarkan nilai akhir yang dihitung.
 
 
 
