@@ -1,6 +1,15 @@
-## WeeklyReportAlgoritma-ImamAtthahira-24343037
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Algoritma+Pemrograman" alt="Typing SVG" /></a>
 
+<h1> Hallo!! Senang Bertemu Dengan Anda..</h1>
 
+>```
+>Nama : Imam Atthahira
+>Nim  : 24343037
+>
+>Repository ini di ambil dari materi pembelajaran dengan Pak Randi Proska Sandra S.Pd, M.Sc
+>```
+
+***
 # Penjelasan Singkat Tentang Modul-Modul
 
 ### Modul 1 - <i>Pengantar Algoritma dan Pemrograman</i>
