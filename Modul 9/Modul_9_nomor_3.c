@@ -3,25 +3,23 @@
 
 int main() {
     // Bagian A
-    int Lesley = 57082;
-    int Layla, Balmond;
+    int LesleyA  = 57082;
+    int LaylaA   = LesleyA;
+    int BalmondA = LaylaA + 1;
 
-    Layla = Lesley;
-
-    Balmond = Layla + 1;
-
-    printf("Bagian A:\n");
-    printf("a) Nilai Layla: %d\n", Layla); 
-    printf("b) Nilai Balmond: %d\n", Balmond);
+    printf("Kasus A \n");
+    printf("Nilai Lesley     : %d\n", LesleyA);
+    printf("a) Nilai Layla   : %d\n", LaylaA); 
+    printf("b) Nilai Balmond : %d\n", BalmondA);
 
     // Bagian B
-    int *LaylaPtr; 
-    LaylaPtr = &Lesley; 
-    Balmond = *LaylaPtr + 1; 
+    int *LaylaB = &LesleyA; 
+    int BalmondB = *LaylaB + 1; 
 
-    printf("\nBagian B:\n");
-    printf("a) Nilai Layla: %d\n", *LaylaPtr);
-    printf("b) Nilai Balmond: %d\n", Balmond); 
+    printf("\nKasus B\n");
+    printf("Nilai Lesley     : %d\n", LesleyA);
+    printf("a) Nilai Layla   : %d\n", LaylaB);
+    printf("b) Nilai Balmond : %d\n", BalmondB); 
 
     return 0;
 }
